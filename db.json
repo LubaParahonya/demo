@@ -1,14 +1,20 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1,
+     "catecories": " Кремы и лосьоны для тела",
+    "discription": "Лосьон для тела Termaly увлажняет и питает, восстанавливает гидро-липидную мантию кожи",
+    "price": 1000,
+     "url": "https://static.insales-cdn.com/images/products/1/1731/644073155/DSC04885_-2.jpg" },
+     { "id": 2,
+     "catecories": "Крем для ног",
+    "discription": "ВВ крем для ног маскирует недостатки кожи ног, придает красивый цвет и гладкость. Ухаживает за кожей, тонизирует и увлажняет. Крем отлично подстраивается под тон вашей кожи. Устойчив к трению и влаге.",
+    "price": 2000,
+     "url": "https://static.insales-cdn.com/images/products/1/1834/668067626/DSCF7486.jpg" },
+     { "id": 2,
+     "catecories": "Скраб для тела",
+    "discription": "Скраб Линия курорта очищает и обновляет кожу, улучшая кровообращение. Масло ши смягчает, повышает упругость и омолаживает кожу. ",
+    "price": 1500,
+     "url": "https://static.insales-cdn.com/images/products/1/7944/869351176/DSC026677pg_светлее.JPG" }
+    
+  ]
 }
